@@ -1,0 +1,143 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.text_product{
+    width: 100%;
+    background-color: white;
+    margin: 0px auto;
+}
+.sum_detail{
+    display: flex;
+    width: 75%;
+    height: 530px;
+    margin: 0px auto;
+}
+.detail_left{
+    width: 33%;
+    text-align: center;
+    padding: 20px;
+}
+.detail_right{
+    padding-left: 10px;
+    width: 43%;
+}
+.detail_right h2{
+    font-family: 'Tahoma', sans-serif;
+    font-weight: bold;
+    color: #2e3553;
+    width: 500px;
+}
+.detail_right h4{
+    font-size: 30px;
+    display: inline-block;
+    color: #ff2d37;
+    font-weight: 700;
+    margin: 0px;
+    margin-left: 0px;
+    width: 350px;
+ }
+ .add > .add_cart{
+    width: 200px;
+    background: #ff2d37;
+    color: white;
+    border-radius: 0px;
+    padding: 10px;
+    margin:10px 2px 10px;
+ }
+ .detail_left >img{
+    border: 2px solid #adadad;
+ }
+.descript{
+    width: 600px;
+    border-radius: 5px;
+    height: 283px;
+    font-family: 'Tahoma', sans-serif;
+    margin-top: 10px;
+    border:  1px solid rgb(198, 198, 198);
+    padding: 10px;
+}
+.descript h5{
+    font-weight: normal;
+    font-size: 15px;
+    height: 500px;
+    margin: 5px;
+}
+.detail_footer{
+    width: 90%;  
+    height: auto;
+    margin: 0px auto;
+    border-radius: 5px;
+    padding: 5px;
+    background: rgb(255, 255, 255);
+}
+.show_comment{
+   width: 80%;
+    margin: 5px auto;
+    border-bottom: 1px solid rgb(218, 218, 218);
+}
+.product_detail > h4{
+    width: auto;
+    height: 40px;
+    margin: 20px 10px 10px 0px;
+    border-radius: 10px;
+    font-size: 13px;
+    border: 1px solid rgb(203, 203, 203);
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+}
+.product_detail > h3{
+    margin: 0px;
+    font-size: 17px;
+    color: rgb(24, 24, 24);
+    margin: 20px 10px 10px 0px;
+}
+.Creat_cart{
+    display: flex;
+}
+.name_comment{
+    width: 75%;
+    margin: 0px auto;
+    text-align: center;
+    font-family: 'Tahoma', sans-serif;
+    
+}
+.name_comment h1{
+    font-size: 25px;
+    padding: 5px;
+    color: red;
+}
+.imgdetail_img{
+    width: 100%;
+    height: 420px;
+}
+.creat_comment{
+    width: 80%;
+    margin: 0px auto;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    height: 150px;
+}
+.inp_comment{
+    width: 85%;
+    margin: 10px;
+    height: 50px;
+    border: 1px solid rgb(205, 205, 205);
+    border-radius: 10px;
+}
+.enter_comment{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-weight: bolder;
+    background: green;
+    border: none;
+    border-radius: 5px;
+}
+.status{
+    width: 1200px;
+    padding: 20px;
+    margin: 0px auto;
+    margin-top: 30px;
+    box-shadow: 0px 0px 5px rgb(187, 187, 187);
+}

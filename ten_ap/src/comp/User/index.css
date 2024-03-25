@@ -1,0 +1,284 @@
+.Sumindex{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.header_index{
+    width: 98,5%;
+    height: 20px;
+    background-color: rgb(0, 174, 237);
+    display: flex;
+    padding: 10px;
+}
+
+.menu_header{
+    display: flex;
+    width: 260px;
+    position: absolute;
+    right: 10px;
+    top: 7px;
+    text-align: center;
+    font-family: 'Tahoma', sans-serif;
+}
+.menu_header2{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 405px;
+    font-family: 'Tahoma', sans-serif;
+}
+.menu_header2  {
+    display: flex;
+    list-style: none;
+}
+.item_product{
+    width: 80px;
+}
+.item_productt{
+    width: 80px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin: 0px;
+}
+.item_auth{
+    width: 100px;
+    margin: 0px;
+    text-align: center;
+    border: 1px solid rgb(255, 255, 255);
+}
+.item_auth >button{
+    background: none;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.item_auth >button:hover{
+  color: red;
+}
+.item_auth h5{
+    margin: 5px;
+}
+.item_productt > h5{
+    margin: 5px;
+    width: 80px;
+    text-align: center;
+}
+.menu_index{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    /* border-bottom: 3px solid grey; */
+    box-shadow: -5px 5px 25px rgb(179, 179, 179);
+}
+.menu_detail{
+    width: 100%;
+    height: 500px;
+}
+.auth{
+    text-decoration: none;
+    font-size: 13px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+.hover_logo{
+    width: 100%;
+    height: 150px;
+    background: url("https://img.pikbest.com/ai/illus_our/20230427/65d982f6d7bf6b588dfc93ba0eb0093b.jpg!w700wp") 100%;
+}
+.footer_index{
+    margin-top: 20px;
+    width: 100%;
+    height: 320px;
+    display: flex;
+    border-top: 1px solid rgb(0, 191, 255) ;
+}
+.logo{
+    width: 50%;
+    padding-left: 20px;
+    font-family: 'Tahoma', sans-serif;
+}
+.logo>img{
+    border-radius: 100%;
+    margin-top: 10px;
+    box-shadow: 0px 0px 10px rgb(171, 171, 171);
+}  
+.menu{
+    width: 15%;
+    font-family: 'Tahoma', sans-serif;
+    color: rgb(192, 44, 44);
+    font-weight: bolder;
+    padding: 0px;
+}
+.cart{
+    position: absolute;
+    right: 20px;
+    top: 60px;
+    margin: 0px;
+}
+span{
+    font-size: 14px;
+    margin-left: 10px;
+    font-weight: normal;
+    color: red;
+}
+.logo h4{
+    font-size: 15px;
+    font-weight: bolder;
+    margin-left: 20px;
+}
+.menu ul{
+    list-style: none;
+    margin-left: 15px;
+    font-size: 13px;
+   
+}
+.menu ul li{
+    margin: 15px;
+}
+.menu_li{
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 15px;
+    padding: 16px;
+    color: black;
+    
+}
+.menu_li:hover{
+    padding: 15px;
+    color: red;
+}
+.menu h3{
+    text-align: center;
+    font-size: 17px;
+}
+.hover_logo img{
+    border-radius: 10px;
+    border: 5px double rgb(255, 114, 163);
+}
+.hover_logo img:hover{
+    width: 38px
+}
+.hover_logo ul {
+    text-align: center;
+    margin: 0px auto;
+    width: 320px;
+    padding-top: 40px;
+    list-style: none;
+    display: flex;
+}
+.hover_logo ul li {
+    margin: 15px;
+}
+.doitac{
+    display: flex;
+    width: 100%;
+    height: 220px;
+    box-shadow: 0px 0px 10px silver;
+    margin-top: 30px;
+}
+.menu_doitac{
+    width: 310px;
+    padding-top: 30px;
+    text-align: center;
+    background-color: white;
+}
+.tieude{
+    font-family: 'Tahoma', sans-serif;
+    color: #57005f;
+    padding: 10px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    margin-left: 35px;
+    margin-top: 30px;
+}
+.tieude_img{
+    width: 50px;
+    height: 28px;
+    float: left;
+    margin-right: 10px;
+}
+.footer_hover{
+    width: 100%;
+    background-color: rgb(0, 163, 222);
+    text-align: center;
+    padding: 1px ;
+    color: black;
+}
+.logo_index{
+    margin-left: 50px;
+    border-radius: 100%;
+    height: 80px;
+    width: 150px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 10px rgb(171, 171, 171);
+}
+.nav_index{
+    width: 94%;
+    margin: 0px auto;
+    background: url("https://imgt.taimienphi.vn/cf/Images/np/2021/10/13/hinh-nen-trang-dep-cho-may-tinh-dien-thoai-3.jpg") 100%;
+    box-shadow: 10px 10px 30px rgb(175, 175, 175);
+    text-align: center;
+   
+}
+.cateBig{
+    display: flex;
+    width: 500px;
+    height: 30px;
+    margin-top: 20px;
+    position: absolute;
+    left: 300px;
+    font-family: 'Tahoma', sans-serif;
+}
+.cateBig > ul{
+    list-style: none;
+    width: 120px;
+}
+.cateBig > ul > li{
+    width: 100px;
+    height: 20px;
+    margin: 0px;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
+.item_cate{
+    text-decoration: none;
+    color: rgb(88, 88, 88);
+    font-size: 18px;
+}
+.item_cate:hover{
+    color: rgb(63, 156, 255);
+}
+.tintuc{
+    width: 90%;
+    margin: 0px auto;
+    height: auto;
+    margin-top: 20px;
+}
+.tintuc>.tintuc_top{
+    width: 99.5%;
+    height: 50px;
+    background-color: rgb(0, 174, 237);
+    padding: 5px;
+}
+.tintuc_top> h1{
+    margin: 5px;
+    color: white ;
+    font-size: 30px;
+}
+.tintuc_bottom{
+    width: 100%;
+    height: 300px;
+    border-bottom-right-radius: 20px ;
+    border-bottom-left-radius: 20px ;
+    display: flex;
+    border: 2px solid rgb(0, 174, 237);
+}
+.tintuc_bottom> .item_tintuc{
+    width: 30%;
+    height: 230px;
+    background-color: red;
+    margin: 22px;
+    box-shadow: 0px 0px 10px rgb(0, 174, 237);
+}

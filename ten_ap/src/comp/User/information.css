@@ -1,0 +1,74 @@
+ .Sum_Statis{
+    width: 20%;
+    height: 610px;
+    padding: 20px;
+    background: url("https://png.pngtree.com/background/20220724/original/pngtree-winter-floral-background-nature-design-picture-image_1743530.jpg");
+    font-family: 'Tahoma', sans-serif;
+    border-right: 2px solid rgb(0, 148, 174);
+ }
+ .statis_right{
+   width: 80%;
+   height: 650px;
+ }
+ .Ho_So{
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(255, 0, 0);
+ }
+ .Sum_hoso{ 
+    width: 99.8%;
+    height: 650px;
+   position: relative;
+   border: 2px solid rgb(0, 148, 174);
+   display: flex;
+   background-color: white;
+ }
+ .sum{
+  width: 400px;
+  display: flex;
+ }
+ .tieude2{
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(0, 72, 255) ;
+    padding: 20px;
+    width: 120px;
+
+ }
+ .ingame{
+  margin-top: 20px;
+  color: black;
+ }
+ .OnlickEdit{
+      width: 60%;
+    border: none;
+    padding: 5px;
+    background: none;
+    color: white;
+    font-weight: bolder;
+    background-color: rgb(0, 173, 230);
+    margin: 5px;
+ }
+ .OnlickEdit:hover{
+    background: pink;
+    color: rgb(255, 0, 0);
+ }
+ .avatar_ac{
+   width: 300px;
+   height: 300px;
+   border-radius: 100%;
+   box-shadow: 0px 0px 10px blue;
+ }
+ .avatar_logout{
+   margin: 0px auto;
+   width: 400px;
+   text-align: center;
+ }
+ .menu_avt{
+   width: 370px;
+   text-align: center;
+   height: 40px;
+   display: flex;
+   padding: 5px;
+   margin-left: 10px;
+ }
